@@ -2,7 +2,7 @@
 <section>
 <h3> Olá, 👋 Seja bem-vindo(a)!</h3>
 
-<p> Me chamo Angela, sou uma estudante de Análise e Desenvolvimento de Sistemas apaixonada pelo universo da tecnologia e pelas infinitas possibilidades que ela oferece. Sou impulsionada por uma curiosidade incansável em compreender e propor novas soluções que tragam eficiência e produtividade aos processos.
+<p> Me chamo Angela, sou estudante de Análise e Desenvolvimento de Sistemas apaixonada pelo universo da tecnologia e pelas infinitas possibilidades que ela oferece. Sou impulsionada por uma curiosidade incansável em compreender e propor novas soluções que tragam eficiência e produtividade aos processos.
 
 Espero que goste do meu perfil e sinta-se à vontade para explorar, compartilhar ideias e propor melhorias.</p>
 <br>
@@ -40,7 +40,6 @@ Espero que goste do meu perfil e sinta-se à vontade para explorar, compartilhar
 <br>
 </section>
 
-<hr>
 </body>
 
 <!--
