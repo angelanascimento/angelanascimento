@@ -35,7 +35,7 @@ Espero que goste do meu perfil e sinta-se à vontade para explorar, compartilhar
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=angelanascimento&show_icons=true&theme=codeSTACKr&locale=pt-br&custom_title=Estatísticas&rank_icon=github" />
 </a>
 <a href="https://github.com/angelanascimento/convoychat">
-  <img width=400 height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelanascimento&layout=compact&theme=codeSTACKr&locale=pt-br&langs_count=8" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelanascimento&layout=compact&theme=codeSTACKr&locale=pt-br&langs_count=8" />
 </a>
 <br>
 </section>
