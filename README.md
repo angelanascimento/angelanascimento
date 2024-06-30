@@ -1,7 +1,7 @@
 <html>
   <body> 
     <div>
-      <img width=340 height=270 align="right" src="https://github.com/angelanascimento/angelanascimento/blob/main/cat-astronaut-animate.svg" />
+      <img width=300 height=270 align="right" src="https://github.com/angelanascimento/angelanascimento/blob/main/cat-astronaut-animate.svg" />
       <h3> Olá, 👋 Seja bem-vindo(a)!</h3>
       <p> Me chamo Angela, sou estudante de Análise e Desenvolvimento de Sistemas apaixonada pelo universo da tecnologia e pelas infinitas possibilidades que ela oferece. Sou impulsionada por uma curiosidade incansável em compreender e propor        novas soluções que tragam eficiência e produtividade aos processos.
       <br>
