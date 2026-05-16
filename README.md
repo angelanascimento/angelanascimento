@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:DB592A,50:F09166,75:EB97A9,100:FFA0AA&height=200&section=header"/>
 <div>
-  <img width=300 height=300 align="right" src="https://github.com/angelanascimento/angelanascimento/blob/main/cat-astronaut-animate.svg" />
+  <!--<img width=300 height=300 align="right" src="https://github.com/angelanascimento/angelanascimento/blob/main/cat-astronaut-animate.svg" /> -->
   <h3> Olá, 👋 Seja bem-vindo(a)!</h3>
   <p> Me chamo Angela, sou estudante de Análise e Desenvolvimento de Sistemas apaixonada pelo universo da tecnologia e pelas infinitas possibilidades que ela oferece. Sou impulsionada por uma curiosidade incansável em compreender e propor        novas soluções que tragam eficiência e produtividade aos processos.
   <br>
@@ -52,7 +52,7 @@
 
 <div align="right">
   <br>
-  <a href="https://storyset.com/cute">Ilustração gatinho de Storyset</a>
+  <!-- <a href="https://storyset.com/cute">Ilustração gatinho de Storyset</a> -->
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:DB592A,50:F09166,75:EB97A9,100:FFA0AA&height=100&section=footer"/>
